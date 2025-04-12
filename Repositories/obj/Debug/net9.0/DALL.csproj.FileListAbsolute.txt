@@ -1,0 +1,16 @@
+D:\distrib\NSYlol\RESTful_API\DALL\bin\Debug\net9.0\DALL.deps.json
+D:\distrib\NSYlol\RESTful_API\DALL\bin\Debug\net9.0\DALL.dll
+D:\distrib\NSYlol\RESTful_API\DALL\bin\Debug\net9.0\DALL.pdb
+D:\distrib\NSYlol\RESTful_API\DALL\bin\Debug\net9.0\Core.dll
+D:\distrib\NSYlol\RESTful_API\DALL\bin\Debug\net9.0\Core.pdb
+D:\distrib\NSYlol\RESTful_API\DALL\obj\Debug\net9.0\DALL.csproj.AssemblyReference.cache
+D:\distrib\NSYlol\RESTful_API\DALL\obj\Debug\net9.0\DALL.GeneratedMSBuildEditorConfig.editorconfig
+D:\distrib\NSYlol\RESTful_API\DALL\obj\Debug\net9.0\DALL.AssemblyInfoInputs.cache
+D:\distrib\NSYlol\RESTful_API\DALL\obj\Debug\net9.0\DALL.AssemblyInfo.cs
+D:\distrib\NSYlol\RESTful_API\DALL\obj\Debug\net9.0\DALL.csproj.CoreCompileInputs.cache
+D:\distrib\NSYlol\RESTful_API\DALL\obj\Debug\net9.0\DALL.sourcelink.json
+D:\distrib\NSYlol\RESTful_API\DALL\obj\Debug\net9.0\DALL.csproj.Up2Date
+D:\distrib\NSYlol\RESTful_API\DALL\obj\Debug\net9.0\DALL.dll
+D:\distrib\NSYlol\RESTful_API\DALL\obj\Debug\net9.0\refint\DALL.dll
+D:\distrib\NSYlol\RESTful_API\DALL\obj\Debug\net9.0\DALL.pdb
+D:\distrib\NSYlol\RESTful_API\DALL\obj\Debug\net9.0\ref\DALL.dll

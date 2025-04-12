@@ -1,0 +1,12 @@
+D:\distrib\NSYlol\RESTful_API\Core\bin\Debug\net9.0\Core.deps.json
+D:\distrib\NSYlol\RESTful_API\Core\bin\Debug\net9.0\Core.dll
+D:\distrib\NSYlol\RESTful_API\Core\bin\Debug\net9.0\Core.pdb
+D:\distrib\NSYlol\RESTful_API\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\distrib\NSYlol\RESTful_API\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\distrib\NSYlol\RESTful_API\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\distrib\NSYlol\RESTful_API\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\distrib\NSYlol\RESTful_API\Core\obj\Debug\net9.0\Core.sourcelink.json
+D:\distrib\NSYlol\RESTful_API\Core\obj\Debug\net9.0\Core.dll
+D:\distrib\NSYlol\RESTful_API\Core\obj\Debug\net9.0\refint\Core.dll
+D:\distrib\NSYlol\RESTful_API\Core\obj\Debug\net9.0\Core.pdb
+D:\distrib\NSYlol\RESTful_API\Core\obj\Debug\net9.0\ref\Core.dll
